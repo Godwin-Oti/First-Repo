@@ -1,3 +1,0 @@
-#ignore extra_exercise.ipynb and extra.ipynb
-*extra_exercise.ipynb 
-*extra.ipynb
